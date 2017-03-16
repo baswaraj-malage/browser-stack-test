@@ -1,0 +1,22 @@
+{
+  "name": "browser-stack-test",
+  "version": "1.0.0",
+  "description": "Run selenium test(s) for google with browser stack.",
+  "main": "index.js",
+  "dependencies": {
+    
+  },
+  "scripts": {
+    "living-test": "mocha --recursive test"	
+  },
+  "keywords": [
+    "browser stack"
+  ],
+  "author": "Baswaraj Malage",
+  "license": "ISC",
+  "devDependencies": {
+    "selenium-webdriver": "^3.1.0",
+	"mocha": "^2.5.3",
+    "mocha-parallel-tests": "^1.2.6"
+  }
+}
