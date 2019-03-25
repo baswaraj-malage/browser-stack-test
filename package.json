@@ -1,7 +1,7 @@
 {
   "name": "browser-stack-test",
   "version": "1.0.0",
-  "description": "Run selenium test(s) for google with browser stack.",
+  "description": "Run selenium test(s) for google with browser stack...",
   "main": "index.js",
   "dependencies": {
     
